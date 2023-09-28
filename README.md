@@ -1,5 +1,5 @@
 # My-Profile
-This my profile created using html,css and javascript.
+This is my profile created using html,css and javascript.
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expected behavior within our community.
 
